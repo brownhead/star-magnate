@@ -1,0 +1,10 @@
+[package]
+name = "star-magnate"
+version = "0.0.0"
+authors = ["johnsullivan.pem@gmail.com"]
+
+[dependencies.glfw]
+git = "https://github.com/bjz/glfw-rs.git"
+
+[dependencies.gl]
+git = "https://github.com/bjz/gl-rs.git"
